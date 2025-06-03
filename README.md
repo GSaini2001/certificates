@@ -5,7 +5,7 @@ This repository contains all the certificates I’ve earned as part of my learni
 
 ---
 
-## 📊 Google Data Analytics Professional Certificate (Coursera)
+## [📊 Google Data Analytics Professional Certificate (Coursera)](https://github.com/GSaini2001/certificates/blob/main/google%20final%20certificate.pdf)
 
 The program consists of 8 courses covering the full data analysis lifecycle.
 
