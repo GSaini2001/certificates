@@ -35,7 +35,7 @@ The program consists of 8 courses covering the full data analysis lifecycle.
 
 ## 🧠 Deloitte Data Analytics Simulation (Forage)
 
-- [View Completion Certificate](certificates/deloitte_certificate.pdf)
+- [View Completion Certificate](https://github.com/GSaini2001/certificates/blob/main/Delloite%20certificate.png)
 
 This virtual job simulation included tasks such as cleaning raw Excel data, generating insights, and preparing slides for a mock executive meeting.
 
@@ -46,7 +46,7 @@ This virtual job simulation included tasks such as cleaning raw Excel data, gene
 
 ## 🗣 IELTS (Academic) – Band 8
 
-- [View IELTS Certificate](certificates/ielts_certificate.pdf)
+
 
 **Highlights**:  
 ✔️ Listening: 8.5  
