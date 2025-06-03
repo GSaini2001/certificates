@@ -25,7 +25,7 @@ The program consists of 8 courses covering the full data analysis lifecycle.
 
 ## 📈 Cisco Data Analytics Essentials (Skills for All)
 
-- [View Certificate PDF](certificates/cisco_certificate.pdf)  
+- [View Certificate ](https://github.com/GSaini2001/certificates/blob/main/cisco%20certificate.png)  
 - [Or View Public Badge (if available on Credly)](https://www.credly.com/badges/YOUR-BADGE-ID)
 
 **Skills Gained**:  
