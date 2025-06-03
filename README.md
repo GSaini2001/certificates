@@ -9,7 +9,7 @@ This repository contains all the certificates I’ve earned as part of my learni
 
 The program consists of 8 courses covering the full data analysis lifecycle.
 
-1. [Foundations: Data, Data, Everywhere](./certificates/google certificate 1.pdf)  
+1. [Foundations: Data, Data, Everywhere](certificates/google certificate 1.pdf)  
 2. [Ask Questions to Make Data-Driven Decisions](google certificate 1.pdf)  
 3. [Prepare Data for Exploration](google certificate 1.pdf)  
 4. [Process Data from Dirty to Clean](google certificate 1.pdf)  
