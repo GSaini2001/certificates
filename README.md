@@ -13,7 +13,7 @@ The program consists of 8 courses covering the full data analysis lifecycle.
 2. [Ask Questions to Make Data-Driven Decisions](https://github.com/GSaini2001/certificates/blob/main/google%20certificate%202.pdf)  
 3. [Prepare Data for Exploration](https://github.com/GSaini2001/certificates/blob/main/google%20certificate%203.pdf)  
 4. [Process Data from Dirty to Clean](https://github.com/GSaini2001/certificates/blob/main/google%20certificate%204.pdf)  
-5. [Analyze Data to Answer Questions](google certificate 1.pdf)  
+5. [Analyze Data to Answer Questions](https://github.com/GSaini2001/certificates/blob/main/google%20certificate%205.pdf)  
 6. [Share Data Through the Art of Visualization](google certificate 1.pdf)  
 7. [Data Analysis with R Programming](google certificate 1.pdf)  
 8. [Capstone: Google Data Analytics Case Study](google certificate 1.pdf)  
